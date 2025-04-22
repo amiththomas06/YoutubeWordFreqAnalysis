@@ -32,7 +32,7 @@ The analysis of trending video titles across South Korea (KR), Canada (CA), the 
 In essence, these word clouds illustrate that while video is a global medium, the content that captures attention is deeply rooted in local interests, current affairs, and cultural preferences. Each country presents a unique profile of trending topics, highlighting the diverse online video consumption habits across the world.
 
 ## **Dataset:**
-We are using the *"Trending YouTube Video Statistics"* dataset, which includes information about video titles, descriptions, views, likes, and dislikes. The dataset is available in both **JSON** and **Excel** formats. The available data is for the year of **2017** and **2018**.
+We are using the *"Trending YouTube Video Statistics"* dataset, which includes information about video titles, descriptions, views, likes, and dislikes. The dataset is available in Kagglehub in both **JSON** and **Excel** formats. The available data is for the year of **2017** and **2018**.
 
 ## **Required Libraries:**
 - `pandas`: For data manipulation
